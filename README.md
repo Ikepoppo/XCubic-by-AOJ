@@ -14,12 +14,17 @@ Print the cube of x in a line.
 
 Constraints
 1 ≤ x ≤ 100
+
 Sample Input 1
 2
+
 Sample Output 1
 8
+
 Sample Input 2
 3
+
 Sample Output 2
 27
+
 '''
